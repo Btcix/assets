@@ -8,7 +8,6 @@
             "name":"Shuttle Swap",
             "symbol":"CSS",
             "decimals":18,
-            "type": "BTCIX20",
             "address":"0x37FeFa9F6644c836a1B282506bBBe8fc23bcBB82",
             "chainId":19845,
             "logoURI":"https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x37FeFa9F6644c836a1B282506bBBe8fc23bcBB82/logo.png"
@@ -17,7 +16,6 @@
             "name":"USDTR Token",
             "symbol":"USDTR",
             "decimals":18,
-            "type": "BTCIX20",
             "address":"0xf101a59cC4D78F8b4c5db101F189C6610cF996AC",
             "chainId":19845,
             "logoURI":"https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xf101a59cC4D78F8b4c5db101F189C6610cF996AC/logo.png"
@@ -26,7 +24,6 @@
             "name":"CoinXar",
             "symbol":"CNXR",
             "decimals":18,
-            "type": "BTCIX20",
             "address":"0x44FB7E0d1Fd0eF6Da0E8221f3214F3154a15DcC1",
             "chainId":19845,
             "logoURI":"https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x44FB7E0d1Fd0eF6Da0E8221f3214F3154a15DcC1/logo.png"
@@ -35,7 +32,6 @@
             "name":"Diamond",
             "symbol":"DOD",
             "decimals":18,
-            "type": "BTCIX20",
             "address":"0x763B298be9f374F69216f10F4675F8BCc61Aa684",
             "chainId":19845,
             "logoURI":"https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x763B298be9f374F69216f10F4675F8BCc61Aa684/logo.png"
@@ -44,7 +40,6 @@
             "name":"BtcixPay",
             "symbol":"BPY",
             "decimals":18,
-            "type": "BTCIX20",
             "address":"0x1D57744cA7E33c8eb611d69Fd018C2c2Cab07d27",
             "chainId":19845,
             "logoURI":"https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x1D57744cA7E33c8eb611d69Fd018C2c2Cab07d27/logo.png"
@@ -53,7 +48,6 @@
             "name":"Desk Zone",
             "symbol":"DESK",
             "decimals":18,
-            "type": "BTCIX20",
             "address":"0x6e672bb1651085Be87eBf8476A17a42958682d9b",
             "chainId":19845,
             "logoURI":"https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6e672bb1651085Be87eBf8476A17a42958682d9b/logo.png"
@@ -62,7 +56,6 @@
             "name":"eCOMMERCE",
             "symbol":"ECOM",
             "decimals":9,
-            "type": "BTCIX20",
             "address":"0xE8e9955085996361788263691Db5114aCE2380D6",
             "chainId":19845,
             "logoURI":"https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xE8e9955085996361788263691Db5114aCE2380D6/logo.png"
