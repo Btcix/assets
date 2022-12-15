@@ -1,0 +1,13 @@
+{
+    "name": "BTCIX Network",
+    "website": "https://bitcolojix.org/",
+    "description": "Optimism is a Layer 2 scaling solution for Ethereum.",
+    "explorer": "https://btcixscan.com",
+    "research": "https://github.com/Btcix",
+    "symbol": "BTCIX",
+    "type": "coin",
+    "decimals": 18,
+    "status": "active",
+    "rpc_url": "https://seed.btcix.org/rpc",
+    "links": []
+}

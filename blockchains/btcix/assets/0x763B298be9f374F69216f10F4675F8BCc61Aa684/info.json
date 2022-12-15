@@ -1,0 +1,12 @@
+{
+    "name": "Diamond",
+    "symbol": "DOD",
+    "type": "BTCIX20",
+    "decimals": 18,
+    "description": "",
+    "website": "",
+    "explorer": "https://btcixscan.com/token/0x763B298be9f374F69216f10F4675F8BCc61Aa684",
+    "status": "active",
+    "id": "0x763B298be9f374F69216f10F4675F8BCc61Aa684",
+    "links": []
+}

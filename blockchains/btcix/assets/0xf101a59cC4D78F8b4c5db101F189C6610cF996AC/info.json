@@ -1,0 +1,12 @@
+{
+    "name": "USDTR Token",
+    "symbol": "USDTR",
+    "type": "BTCIX20",
+    "decimals": 18,
+    "description": "",
+    "website": "",
+    "explorer": "https://btcixscan.com/token/0xf101a59cC4D78F8b4c5db101F189C6610cF996AC",
+    "status": "active",
+    "id": "0xf101a59cC4D78F8b4c5db101F189C6610cF996AC",
+    "links": []
+}
