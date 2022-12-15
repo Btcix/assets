@@ -1,0 +1,12 @@
+{
+    "name": "CoinXar",
+    "symbol": "CNXR",
+    "type": "BTCIX20",
+    "decimals": 18,
+    "description": "",
+    "website": "",
+    "explorer": "https://btcixscan.com/token/0x44FB7E0d1Fd0eF6Da0E8221f3214F3154a15DcC1",
+    "status": "active",
+    "id": "0x44FB7E0d1Fd0eF6Da0E8221f3214F3154a15DcC1",
+    "links": []
+}

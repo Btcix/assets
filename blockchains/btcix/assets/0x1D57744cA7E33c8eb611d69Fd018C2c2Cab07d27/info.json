@@ -1,0 +1,12 @@
+{
+    "name": "BtcixPay",
+    "symbol": "BPY",
+    "type": "BTCIX20",
+    "decimals": 18,
+    "description": "",
+    "website": "",
+    "explorer": "https://btcixscan.com/token/0x1D57744cA7E33c8eb611d69Fd018C2c2Cab07d27",
+    "status": "active",
+    "id": "0x1D57744cA7E33c8eb611d69Fd018C2c2Cab07d27",
+    "links": []
+}
